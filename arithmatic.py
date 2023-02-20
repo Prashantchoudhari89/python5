@@ -1,5 +1,5 @@
-a=100
-b=20
+a=10
+b=2
 c=a+b
 # print(c)
 
@@ -11,6 +11,6 @@ c=a-b
 c=a*b
 # print(c)
 
-#code for division
-c=a/b
+#code for square
+c=a*a
 print(c)
