@@ -1,4 +1,4 @@
-a=10
+a=100
 b=20
 c=a+b
 # print(c)
@@ -9,4 +9,8 @@ c=a-b
 
 #code for multiplication written by madan
 c=a*b
+# print(c)
+
+#code for division
+c=a/b
 print(c)
