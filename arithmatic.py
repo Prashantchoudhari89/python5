@@ -5,4 +5,8 @@ c=a+b
 
 #code for prashant
 c=a-b
+# print(c)
+
+#code for multiplication written by madan
+c=a*b
 print(c)
